@@ -1,1 +1,2 @@
 'La captaci¢n de agua por neblina en el desierto se logra mediante "atrapanieblas". Estos sistemas utilizan grandes mallas verticales que interceptan las diminutas gotas de agua suspendidas en la niebla. Las gotas se condensan en la superficie de la malla, se deslizan por gravedad y se recolectan en un sistema de tuber¡as hacia un dep¢sito. Es una soluci¢n sostenible para zonas  ridas con alta presencia de niebla, como el desierto de Atacama.' 
+'hamburguesa' 
