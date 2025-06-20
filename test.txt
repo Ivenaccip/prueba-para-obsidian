@@ -1,1 +1,2 @@
 'SS' 
+'La Teor¡a del Funcional de la Densidad (DFT) es un pilar en la f¡sica y qu¡mica cu ntica. Permite calcular con alta precisi¢n propiedades fundamentales de materiales y mol‚culas, simplificando la complejidad de muchos electrones al enfocarse en su densidad. Su importancia radica en revolucionar el dise¤o de nuevos materiales y nuestra comprensi¢n de la materia a escala at¢mica, siendo una herramienta computacional indispensable hoy d¡a.' 
